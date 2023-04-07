@@ -1,27 +1,19 @@
 <div align="center">
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ## **Languages & Tools**
-
 ![Unity](https://img.shields.io/badge/Unity-383838?style=for-the-badge&logo=unity&link=https://unity.com)
 ![C#](https://img.shields.io/badge/C%23-1F1F1F?style=for-the-badge&logo=csharp&logoColor=BE73D9&link=https://dotnet.microsoft.com/en-us/languages/csharp)
 ![.NET](https://img.shields.io/badge/.NET-512AD5?style=for-the-badge&logo=.net&link=https://dotnet.microsoft.com/en-us/)
 ![Blender](https://img.shields.io/badge/Blender-8C8C8C?style=for-the-badge&logo=blender&link=https://store.steampowered.com/app/365670/Blender/)
 ![Figma](https://img.shields.io/badge/Figma-292929?style=for-the-badge&logo=figma&logoColor=ffffff&link=https://www.figma.com)
-
 ___
-<!--Dark mode-->
+</br>
+
 [![Stas](https://github-readme-stats.vercel.app/api?username=sha-255&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-255&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--Light mode-->
-[![Stas](https://github-readme-stats.vercel.app/api?username=sha-255&show_icons=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-255&show_icons=true&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 #### 🔗 Links:
-![Telegramm](https://img.shields.io/badge/Telegram-383838?style=flat&logo=telegram&link=https://t.me/sha260)
-
+[![Telegramm](https://img.shields.io/badge/Telegram-383838?style=flat&logo=telegram)](https://t.me/sha260)
 </div>
