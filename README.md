@@ -16,4 +16,5 @@ ___
 
 #### 🔗 Links:
 [![Telegramm](https://img.shields.io/badge/Telegram-383838?style=flat&logo=telegram)](https://t.me/sha260)
+[![OK.ru](https://img.shields.io/badge/Одноклассники-ffffff?style=flat&logo=telegram)](https://t.me/sha260)
 </div>
