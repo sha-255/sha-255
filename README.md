@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ## **Languages & Tools**
+![Vue](https://img.shields.io/badge/vue-fff?style=for-the-badge&logo=vuedotjs&link=https://vuejs.org/)
+![Js](https://img.shields.io/badge/Js-000?style=for-the-badge&logo=javascript&link=https://js.org/)
 ![Unity](https://img.shields.io/badge/Unity-383838?style=for-the-badge&logo=unity&link=https://unity.com)
 ![C#](https://img.shields.io/badge/C%23-1F1F1F?style=for-the-badge&logo=csharp&logoColor=BE73D9&link=https://dotnet.microsoft.com/en-us/languages/csharp)
 ![.NET](https://img.shields.io/badge/.NET-512AD5?style=for-the-badge&logo=.net&link=https://dotnet.microsoft.com/en-us/)
